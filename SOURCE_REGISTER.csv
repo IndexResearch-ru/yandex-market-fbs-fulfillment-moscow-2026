@@ -1,0 +1,62 @@
+source_id,entity,url,source_type,checked_date,status,notes
+S001,Яндекс Маркет,https://www.yandex.ru/support/marketplace/ru/start/models/fbs,official marketplace docs,2026-10-03,checked / used in final scoring,Определение FBS и границы модели.
+S002,Яндекс Маркет,https://www.yandex.ru/support/marketplace/ru/orders/fbs/process,official marketplace docs,2026-10-03,checked / used in final scoring,Обработка и передача FBS-заказов.
+S003,Яндекс Маркет,https://www.yandex.ru/support/marketplace/ru/orders/fbs/settings/shipment,official marketplace docs,2026-10-03,checked / used in final scoring,Настройки отгрузки FBS-магазина.
+S004,Яндекс Маркет,https://www.yandex.ru/support/marketplace/ru/introduction/rates/models/fbs,official marketplace docs,2026-10-03,checked / used in final scoring,Тарифы и последствия просрочки FBS.
+S005,Яндекс Маркет,https://www.yandex.ru/support/marketplace/ru/orders/fbs/van,official marketplace docs,2026-10-03,checked / used in final scoring,Забор FBS-заказов со склада.
+S006,Преп-Центр,https://prep-center.ru/fbs-yandex-market/,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, операции, возвраты, базовый прайс, ежедневная передача."
+S007,Преп-Центр,https://prep-center.ru/trebovaniya-fbs-yandex-market/,official operator page,2026-10-03,checked / used in final scoring,Требования Яндекс Маркета к упаковке/ярлыкам/FBS.
+S008,Преп-Центр,https://prep-center.ru/tarify/,official tariff,2026-10-03,checked / used in final scoring,Публичный прайс и FBS/хранение/маркировка.
+S009,Преп-Центр,https://prep-center.ru/about/,official operator page,2026-10-03,checked / used in final scoring,"1560 м², мощность, 75+ камер, режим, 2 FBS-отгрузки."
+S010,Преп-Центр,https://prep-center.ru/wms-mpfit-dlya-fulfillmenta/,official operator page,2026-10-03,checked / used in final scoring,WMS МПФИТ и возвратный цикл.
+S011,Преп-Центр,https://prep-center.ru/chestnyy-znak/,official operator page,2026-10-03,checked / used in final scoring,КИЗ/Data Matrix/Честный знак и скан-контроль.
+S012,МПФИТ,https://mpfit.ru/product/fbs/,official WMS page,2026-10-03,checked / used in final scoring,"Заказы Яндекс Маркета в реальном времени, остатки, задания на сборку."
+S013,МПФИТ,https://mpfit.ru/help/osnovnye-nastroyki/kak-rabotat-s-fbs-zakazami-v-mpfit/,official WMS docs,2026-10-03,checked / used in final scoring,Автоматическое получение FBS-заказов и синхронизация.
+S014,Fulllog,https://fulllog.ru/fulfillment-yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Direct Yandex FBS, API, ежедневная передача, возвраты."
+S015,Fulllog,https://fulllog.ru/delivery,official operator page,2026-10-03,checked / used in final scoring,"FBS до 17:00 same-day, SLA, собственная логистика."
+S016,Fulllog,https://fulllog.ru/prices,official tariff,2026-10-03,checked / used in final scoring,"Полный прайс, FBS доставка, возвраты, калькулятор."
+S017,Fulllog,https://fulllog.ru/company,official operator page,2026-10-03,checked / used in final scoring,"1500 м², 500+ клиентов, WMS, собственный склад."
+S018,Fulllog,https://fulllog.ru/,official operator page,2026-10-03,checked / used in final scoring,"150000+ товаров/месяц, склад и общий масштаб."
+S019,Fulllog,https://fulllog.ru/blog/kak-otgruzhat-zakazy-po-fbs,official operator article,2026-10-03,checked / used in final scoring,"API, единый сток, ЧЗ, рейсы и возвраты FBS."
+S020,fulfil.pro,https://fulfil.pro/fulfilment-po-modeli-fbs/,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS cutoff 8:00, API/WMS, returns, tariffs, capacity."
+S021,fulfil.pro,https://fulfil.pro/,official operator page,2026-10-03,checked / used in final scoring,"4600 м², 6 машин, ЧЗ, видеоконтроль, ответственность."
+S022,Yunu,https://yunu.ru/fulfilment-dlya-yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Yandex cutoff 14:00, 1 рейс/сутки, тарифы, склад A."
+S023,Yunu,https://yunu.ru/fulfilment-fbs,official operator page,2026-10-03,checked / used in final scoring,FBS-процесс и тарифы.
+S024,Yunu,https://yunu.ru/fulfilment,official operator page,2026-10-03,checked / used in final scoring,"5000+ FBS/день, общий контур."
+S025,LOGIDEX,https://logidex.ru/fulfillment-yandex-market.html,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, API, same-day, ЧЗ."
+S026,LOGIDEX,https://logidex.ru/fulfillment-fbs.html,official operator page,2026-10-03,checked / used in final scoring,FBS workflow.
+S027,LOGIDEX,https://logidex.ru/tarify.html,official tariff,2026-10-03,checked / used in final scoring,Публичный прайс.
+S028,O-FF,https://o-ff.ru/fulfillment-yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, сроки, возвраты, склад, WMS."
+S029,O-FF,https://o-ff.ru/price,official tariff,2026-10-03,checked / used in final scoring,Публичные ставки.
+S030,FullSklad,https://fullsklad.com/fbs,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, WMS+API+ТСД, ежедневная отправка."
+S031,FullSklad,https://fullsklad.com/yandex-market,official operator page,2026-10-03,checked / used in final scoring,Возвраты и Yandex workflow.
+S032,FullSklad,https://fullsklad.com/o-sklade,official operator page,2026-10-03,checked / used in final scoring,Склад и контроль.
+S033,Helpberries,https://helpberries.ru/fulfilment-yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, same-day, остатки, тарифы."
+S034,Helpberries,https://helpberries.ru/fbs-fulfilment-prodazhi-dlya-marketpleysov,official operator page,2026-10-03,checked / used in final scoring,Общий FBS-процесс.
+S035,Helpberries,https://helpberries.ru/,official operator page,2026-10-03,checked / used in final scoring,Московский склад и услуги.
+S036,WBBK,https://www.wbbk.club/fulfillment/yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS/DBS, WMS, тарифы, Москва."
+S037,WBBK,https://www.wbbk.club/fulfillment/fbs,official operator page,2026-10-03,checked / used in final scoring,Same-day FBS workflow.
+S038,WBBK,https://www.wbbk.club/fulfillment,official operator page,2026-10-03,checked / used in final scoring,Масштаб/контроль.
+S039,Vitaff,https://vitaff.ru/fbs-yandex-market/,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, интеграция, возвраты, прайс."
+S040,Vitaff,https://vitaff.ru/fbs/,official operator page,2026-10-03,checked / used in final scoring,FBS workflow.
+S041,Vitaff,https://vitaff.ru/fulfilment-yandex-market/,official operator page,2026-10-03,checked / used in final scoring,Yandex fulfillment.
+S042,СДЭК Фулфилмент,https://ff.cdek.ru/fbs/yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, интеграция, возвраты, ставки, SLA."
+S043,СДЭК Фулфилмент,https://ff.cdek.ru/yandex-market,official operator page,2026-10-03,checked / used in final scoring,Yandex fulfillment.
+S044,Бета ПРО,https://betapro.ru/fulfilment/yandex-m/,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS/FBO, API, 20000 м², >100000/сут."
+S045,Бета ПРО,https://betapro.ru/fulfilment/fbs-ozon-wildberries/,official operator page,2026-10-03,checked / used in final scoring,"FBS + Яндекс Маркет, 24/7."
+S046,LRpack,https://lrpack.ru/info/fulfillment-yandex-market-prodavcam,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS, WMS/API, 4 склада >5000 м²."
+S047,LRpack,https://lrpack.ru/uslugi,official operator page,2026-10-03,checked / used in final scoring,Услуги/маркировка/склад.
+S048,Full-Fix,https://full-fix.ru/,official operator page,2026-10-03,checked / used in final scoring,"Яндекс Маркет, 2000 м², 24/7, ответственность."
+S049,Full-Fix,https://full-fix.ru/wms/,official WMS page,2026-10-03,checked / used in final scoring,"WMS, синхронизация Яндекс Маркета, КИЗ, 300000+/мес."
+S050,Full-Fix,https://full-fix.ru/blog/otgruzka-na-yandeks-market-shemy-i-trebovaniya/,official operator article,2026-10-03,checked / used in final scoring,Актуальный Yandex FBS контекст.
+S051,FullMark,https://full-mark.ru/,official operator page,2026-10-03,checked / used in final scoring,"FBS, ERM, ежедневные отгрузки, ЧЗ, Яндекс Маркет."
+S052,FullMark,https://full-mark.ru/prices/,official tariff,2026-10-03,checked / used in final scoring,"FBS сборка, отгрузка, хранение и ЧЗ."
+S053,FullFusion,https://fullfusion.ru/uslugi/fulfilment-yandex-market,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBO/FBS, заявки до 16:00, ежедневная логистика."
+S054,Bawaga,https://ffbawaga.ru/yandexmarket,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS/FBO, Москва, возвраты, КИЗ."
+S055,FullBox,https://fullbox.ru/blog/fulfilment-yandex-market-fby-fbs/,official operator article,2026-10-03,checked / used in final scoring,Yandex FBY/FBS.
+S056,FullBox,https://fullbox.ru/services/,official operator page,2026-10-03,checked / used in final scoring,"WMS, склад МО, ЧЗ, услуги FBS."
+S057,FullBox,https://fullbox.ru/tarify/,official tariff,2026-10-03,checked / used in final scoring,Публичные ставки.
+S058,Оператор-3000,https://operator3000.ru/ff_ya_market,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS/FBO, склад, возвраты, 24/7."
+S059,Оператор-3000,https://operator3000.ru/fullfilment_fbs,official operator page,2026-10-03,checked / used in final scoring,FBS workflow.
+S060,Cross Fulfilment,https://fulcross.com/fulfilment-dlya-yandex-market/,official operator page,2026-10-03,checked / used in final scoring,"Yandex FBS/FBO, Химки, возвраты, ответственность."
+S061,Cross Fulfilment,https://fulcross.com/,official operator page,2026-10-03,checked / used in final scoring,Общий склад/услуги.
