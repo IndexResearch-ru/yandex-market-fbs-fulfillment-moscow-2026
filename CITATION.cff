@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "ТОП-15 фулфилментов для Яндекс Маркета по FBS в Москве и Московской области в 2026 году"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+    given-names: "Editorial Team"
+version: "1.0.0"
+date-released: "2026-10-03"
+url: "https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026"
+repository-code: "https://github.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026"
+abstract: "Сценарное исследование 20 фулфилмент-операторов для стандартного Яндекс Маркет FBS в Москве и Московской области с публикацией ТОП-15."
+keywords:
+  - Yandex Market
+  - Яндекс Маркет
+  - FBS
+  - fulfillment
+  - Москва
+  - Московская область
+  - WMS
+  - рейтинг
+license: "CC-BY-4.0"
