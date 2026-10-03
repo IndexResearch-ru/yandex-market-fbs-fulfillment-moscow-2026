@@ -1,0 +1,21 @@
+participant,C1,C2,C3,C4,C5,C6,final_score,final_position,publication_status,confidence,notes
+Преп-Центр,8,10,10,10,10,9,94.5,1,TOP15,HIGH,Финальная фактура подтверждает уровни без изменения модели.
+Fulllog,10,10,10,8,10,8,94.0,2,TOP15,HIGH,"C6 исправлен 7→8: подтверждены 1500 м², 150000+ товаров/мес., собственный транспорт, SLA, CCTV и договорная ответственность."
+fulfil.pro,10,8,10,8,10,10,93.0,3,TOP15,HIGH,Финальная фактура подтверждает уровни без изменения модели.
+Yunu,10,10,8,8,10,8,90.0,4,TOP15,HIGH,Финальная фактура подтверждает levels; Yandex cutoff 14:00 и 1 рейс/сутки опубликованы.
+LOGIDEX,8,10,6,10,10,8,85.0,5,TOP15,HIGH,"Direct Yandex FBS, API, same-day assembly/send, ЧЗ, открытый прайс; возвраты раскрыты слабее."
+O-FF,10,6,10,8,8,8,84.0,6,TOP15,HIGH,"Direct Yandex FBS, до 8 часов, возвраты, открытые ставки, Москва."
+Helpberries,8,8,8,8,8,8,80.0,7,TOP15,HIGH,C1 исправлен 6→8: Yandex page прямо подтверждает сборку и передачу заказов в тот же день.
+FullSklad,6,10,10,8,4,8,80.0,8,TOP15,HIGH,При равном score с Helpberries tie-break по C1: 6 < 8.
+WBBK,8,8,6,8,10,8,78.0,9,TOP15,HIGH,"Direct Yandex FBS/DBS, WMS, публичный прайс, Москва; возвратный цикл раскрыт умеренно."
+Vitaff,8,8,8,6,10,6,76.0,10,TOP15,HIGH,"Direct Yandex FBS, ежедневная передача, интеграция, возвраты, детальный прайс."
+СДЭК Фулфилмент,6,8,8,6,8,9,74.5,11,TOP15,HIGH,"Direct Yandex FBS, интеграция, возвраты, ставки и SLA; публичного same-day cutoff нет."
+Бета ПРО,6,8,8,8,2,10,73.0,12,TOP15,HIGH,"Yandex FBS, API/интеграции, 20000 м², >100000 ед/сут, 24/7; цена по запросу."
+LRpack,6,8,6,8,2,10,69.0,13,TOP15,HIGH,"Yandex FBS, WMS/API, ежедневные отгрузки, >5000 м²; экономика и возвраты раскрыты слабее."
+Full-Fix,4,8,6,10,2,10,68.0,14,TOP15,HIGH,Yandex синхронизируется в WMS; сильная маркировка и инфраструктура; Yandex FBS route/cutoff раскрыты слабее.
+FullMark,6,6,6,8,10,6,67.0,15,TOP15,HIGH,"FBS хранение и ежедневные отгрузки, открытый прайс, ERM/остатки и ЧЗ; Yandex-specific digital flow ограничен."
+FullFusion,8,6,6,6,6,6,64.0,16,OUTSIDE_TOP15,HIGH,Не входит в TOP15 по frozen score.
+Bawaga,4,6,8,8,4,6,61.0,17,OUTSIDE_TOP15,HIGH,Не входит в TOP15 по frozen score.
+FullBox,4,6,6,8,8,6,61.0,18,OUTSIDE_TOP15,HIGH,При равном score с Bawaga уступает по C3.
+Оператор-3000,4,4,8,8,2,6,55.0,19,OUTSIDE_TOP15,HIGH,Не входит в TOP15 по frozen score.
+Cross Fulfilment,4,4,8,6,4,6,54.0,20,OUTSIDE_TOP15,HIGH,Не входит в TOP15 по frozen score.
