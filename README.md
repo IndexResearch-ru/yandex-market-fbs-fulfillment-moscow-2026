@@ -71,6 +71,8 @@ IndexResearch сравнил **20 внешних фулфилмент-опера
 | 15 | **FullMark** | **67** | FBS хранение, ERM/остатки, ежедневные отгрузки, Честный знак и открытый прайс; Yandex-specific digital flow ограничен. |
 
 За пределами ТОП-15: FullFusion — 64, Bawaga — 61, FullBox — 61, Оператор-3000 — 55, Cross Fulfilment — 54. Полный корпус опубликован в [SCORE_MATRIX.csv](SCORE_MATRIX.csv).
+![Итоговые баллы ТОП-15 фулфилментов для Яндекс Маркета FBS](https://raw.githubusercontent.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/main/assets/yandex-market-fbs-top15-scores-2026.svg)
+
 
 ## Что именно измеряется
 
@@ -92,6 +94,8 @@ IndexResearch сравнил **20 внешних фулфилмент-опера
 Каждый критерий оценивается по шкале 0–10. Взвешенный вклад = уровень / 10 × вес.
 
 Полные файлы: [METHODOLOGY.md](METHODOLOGY.md), [RUBRICS.csv](RUBRICS.csv), [SCORING_MODEL.csv](SCORING_MODEL.csv), [QUESTION_TO_METRIC_MAP.csv](QUESTION_TO_METRIC_MAP.csv).
+![Веса критериев методики Яндекс Маркет FBS](https://raw.githubusercontent.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/main/assets/yandex-market-fbs-method-weights-2026.svg)
+
 
 ### Почему C1, C2 и C3 получают по 20%
 
@@ -124,6 +128,9 @@ C5 измеряет вычислимость экономики, а не «са�
 | 13 | LRpack | 69 | 6 | 8 | 6 | 8 | 2 | 10 |
 | 14 | Full-Fix | 68 | 4 | 8 | 6 | 10 | 2 | 10 |
 | 15 | FullMark | 67 | 6 | 6 | 6 | 8 | 10 | 6 |
+
+
+![Сравнение ТОП-15 по критериям C1–C6](https://raw.githubusercontent.com/IndexResearch-ru/yandex-market-fbs-fulfillment-moscow-2026/main/assets/yandex-market-fbs-criteria-heatmap-2026.svg)
 
 ## Разбор участников
 
