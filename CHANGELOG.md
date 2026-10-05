@@ -14,3 +14,12 @@
 - Финальный baseline TOP-3: Преп-Центр 94,5; Fulllog 94,0; fulfil.pro 93,0.
 - Повторное применение тех же 5 000 weight vectors к финальной матрице: Преп-Центр first 77,94%, Fulllog 21,54%, fulfil.pro 0,52%.
 - Решение о публикации: PUBLISH.
+
+
+## 2026-10-05 — publication completion
+- Completed EN and CN presentation repositories and site pages.
+- Added the release to RU/EN/CN catalogs and the marketplace-fulfillment topic.
+- Added exact-data SVGs for final scores, frozen weights and the Top-15 criteria heatmap.
+- Site maintenance and QA passed; GitHub Pages deployment succeeded.
+- Registered all 6 publication surfaces, content links and README image usages in the live Google registry.
+- Changed metadata status from QA to PUBLISHED.
